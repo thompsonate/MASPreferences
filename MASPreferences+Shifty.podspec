@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
   s.source                = { :git => 'https://github.com/thompsonate/MASPreferences.git', :tag => '1.3' }
   s.source_files          = 'Framework/*.{h,m}'
   s.resources             = 'Framework/en.lproj/*.xib'
-  s.exclude_files         = 'README.md', 'LICENSE.md', 'MASPreferences.podspec'
+  s.exclude_files         = 'README.md', 'LICENSE.md', 'MASPreferences+Shifty.podspec'
   s.requires_arc          = true
 end

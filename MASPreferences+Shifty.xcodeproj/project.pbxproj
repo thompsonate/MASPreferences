@@ -114,7 +114,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F16AF7EE1BA279F10022155C /* Build configuration list for PBXProject "MASPreferences" */;
+			buildConfigurationList = F16AF7EE1BA279F10022155C /* Build configuration list for PBXProject "MASPreferences+Shifty" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -271,7 +271,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = Framework/MASPreferences.modulemap;
-				PRODUCT_BUNDLE_IDENTIFIER = com.github.shpakovski.MASPreferences;
+				PRODUCT_BUNDLE_IDENTIFIER = "io.natethompson.MASPreferences-Shifty";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -290,7 +290,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = Framework/MASPreferences.modulemap;
-				PRODUCT_BUNDLE_IDENTIFIER = com.github.shpakovski.MASPreferences;
+				PRODUCT_BUNDLE_IDENTIFIER = "io.natethompson.MASPreferences-Shifty";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -299,7 +299,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F16AF7EE1BA279F10022155C /* Build configuration list for PBXProject "MASPreferences" */ = {
+		F16AF7EE1BA279F10022155C /* Build configuration list for PBXProject "MASPreferences+Shifty" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F16AF7FA1BA279F10022155C /* Debug */,

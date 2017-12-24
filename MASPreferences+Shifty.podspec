@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.platform              = :osx
   s.name                  = "MASPreferences+Shifty"
-  s.version               = "1.3.2"
+  s.version               = "1.3.3"
   s.summary               = "Modern implementation of the Preferences window for OS X apps. Customized for Shifty by Nate Thompson."
   s.homepage              = "https://github.com/thompsonate/MASPreferences"
   s.license               = { :type => 'BSD', :file => 'LICENSE.md' }
